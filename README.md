@@ -32,8 +32,8 @@ scripts.js
 
 🌐 Live Demo
 
-(Add your Netlify link here)
+https://sct-wd-1-siddharth.netlify.app  
 
 📎 GitHub Repository
 
-(Add your GitHub link here)
+https://github.com/SiddharthKushwaha21/SCT_WD_1
