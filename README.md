@@ -1,39 +1,140 @@
-Task 01 – Responsive Landing Page
+# 🚀 SCT_WD_1 — Premium Web Development Course Landing Page
 
-Web Development Internship – SkillCraft Technology
+## ✨ Overview
 
-📌 Project Overview
+**SCT_WD_1** is a modern, premium and fully responsive **Web Development Course Selling Landing Page** designed to deliver a high-quality user experience with smooth animations, clean UI, and conversion-focused sections.
 
-This project is developed as part of Task 01 of the Web Development Internship at SkillCraft Technology.
+This project demonstrates strong skills in **frontend development, responsive design, layout structuring, and UI enhancement techniques.**
 
-The objective was to create an interactive and responsive navigation menu that changes style on scroll and hover, and remains fixed on all pages.
+It is built to simulate a real EdTech product homepage where users can explore courses, mentors, pricing plans, and take action easily.
 
-🚀 Features
+---
 
-• Fixed Glassmorphism Navigation Bar
-• Scroll-based Navbar Styling
-• Hover Underline Animation
-• Scroll Reveal Section Animation
-• Fully Responsive Design
-• Mobile Hamburger Menu
-• Smooth Scrolling
+🌐 **Live Demo:** https://sct-wd-1-siddharth.netlify.app/ <br>
 
-🛠 Technologies Used
+📂 **Repository:** https://github.com/SiddharthKushwaha21/SCT_WD_1
 
-HTML5
-CSS3
-JavaScript
+---
 
-📂 Project Structure
+## 🎯 Key Features
 
-index.html
-style.css
-scripts.js
+- ✅ Ultra Premium UI Design  
+- ✅ Fully Responsive (Mobile • Tablet • Desktop)  
+- ✅ Smooth Animations & Hover Effects  
+- ✅ Modern Layout Structure  
+- ✅ Conversion Focused Sections  
+- ✅ Clean Typography & Spacing  
+- ✅ Fast Loading Performance  
+- ✅ User Friendly Navigation  
+- ✅ Professional Hero Section  
+- ✅ Pricing / Mentor / About Sections  
 
-🌐 Live Demo
+---
 
-https://sct-wd-1-siddharth.netlify.app  
+## 🛠️ Tech Stack
 
-📎 GitHub Repository
+| Technology               | Purpose                     |
+| ------------------------ | --------------------------- |
+| **HTML5**                | Structure & semantic layout |
+| **CSS3 / Tailwind CSS**  | Styling & responsive design |
+| **JavaScript (Vanilla)** | Interactivity & animations  |
+| **Netlify**              | Deployment & hosting        |
+| **Git & GitHub**         | Version control             |
 
-https://github.com/SiddharthKushwaha21/SCT_WD_1
+---
+
+## 📱 Responsive Design
+
+This project is designed with a **mobile-first approach**, ensuring optimal viewing experience across all devices.
+
+Breakpoints handled:
+
+* Small Devices → Smartphones
+* Medium Devices → Tablets
+* Large Devices → Laptops
+* Extra Large → Desktop Screens
+
+---
+
+## 🧠 What I Learned
+
+During the development of this project, I improved my understanding of:
+
+* Modern Landing Page Design Principles
+* UI / UX Improvement Techniques
+* Responsive Layout Structuring
+* Animation Implementation
+* Section Based Component Thinking
+* Real World Project Deployment
+
+---
+
+## ⚡ Performance Optimization
+
+* Optimized layout rendering
+* Lightweight assets usage
+* Efficient CSS utility classes
+* Smooth scroll behaviour
+* Minimal JS for better speed
+
+---
+
+## 📂 Project Structure
+
+```
+SCT_WD_1/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+---
+
+## 🚀 Deployment
+
+This project is deployed using **Netlify** for fast global CDN delivery.
+
+To run locally:
+
+```bash
+git clone https://github.com/SiddharthKushwaha21/SCT_WD_1.git
+
+cd SCT_WD_1
+
+open index.html
+```
+
+---
+
+## 🌟 Future Improvements
+
+* Add Backend Integration
+* Course Purchase Flow
+* Authentication System
+* Dark / Light Mode Toggle
+* Advanced Micro-Interactions
+* SEO Optimization
+
+---
+
+## 👨‍💻 Author
+
+**Siddharth Kushwaha** <br>
+🎓 MCA 2nd Year Student <br>
+💡 Passionate about Full Stack Development & Modern UI Design  
+
+GitHub:  
+👉 https://github.com/SiddharthKushwaha21
+
+---
+
+## 📜 License
+
+This project is created for **learning and portfolio purposes.**
+You are free to use and modify it.
+
+---
+
+⭐ If you like this project, don't forget to **star the repository!**
