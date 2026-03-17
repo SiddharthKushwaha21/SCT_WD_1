@@ -10,7 +10,7 @@ It is built to simulate a real EdTech product homepage where users can explore c
 
 ---
 
-🌐 **Live Demo:** https://sct-wd-1-siddharth.netlify.app/ <br>
+🌐 **Live Demo:** https://sct-wd-1-puce.vercel.app/ <br>
 
 📂 **Repository:** https://github.com/SiddharthKushwaha21/SCT_WD_1
 
